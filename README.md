@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 
 ### Hey 👋🏽, I'm [Hason!](https://github.com/HasonHuang) 
 
-
-<br />
-<br />
-
 Hi, I'm Hason Huang, a Java Developer 🚀 from China. Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
@@ -42,7 +38,7 @@ Hi, I'm Hason Huang, a Java Developer 🚀 from China. Beside's programming, I e
 
 
 
-![Hason Huang's github stats](https://github-readme-stats.vercel.app/api?username=HasonHuang&show_icons=true&hide_border=true)
+[![Hason Huang's github stats](https://github-readme-stats.vercel.app/api?username=HasonHuang)](https://github.com/HasonHuang)
 
 ⭐️ From [Hason](https://github.com/HasonHuang)
 
