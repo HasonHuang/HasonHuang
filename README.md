@@ -17,6 +17,8 @@ ref: https://github.com/kautukkundan/Awesome-Profile-README-templates/blob/maste
 
 ### Hey <img src="https://raw.githubusercontent.com/hasonhuang/hasonhuang/master/gifs/Hi.gif" width="30px">, I'm Hason
 
+❤️ Programming | 🖤 Food | 💙 TVB
+
 Hi, I'm Hason Huang, a Java Developer 🚀 from China. Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
