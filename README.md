@@ -39,6 +39,6 @@ Hi, I'm Hason Huang, a Java Developer 🚀 from China. Beside's programming, I e
 
 
 
-[![Hason Huang's github stats](https://github-readme-stats.vercel.app/api?username=HasonHuang)](https://github.com/HasonHuang)
+[![Hason Huang's github stats](https://github-readme-stats.vercel.app/api?username=HasonHuang&show_icons=true)](https://github.com/HasonHuang)
 
 ⭐️ From [Hason](https://github.com/HasonHuang)
